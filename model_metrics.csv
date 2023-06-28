@@ -1,0 +1,2 @@
+window_size,model,epochs,mae,rmse,trading_profit
+5,cnn,32,13.584416389465332,21.944442749023438,-249.60000000001747
